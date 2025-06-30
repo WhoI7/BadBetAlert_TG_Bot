@@ -4,6 +4,7 @@
 2)В MySQL створити базу данних запросом:
 
 Поля у вигялді цифр повинні бути обгорнуті лапками -> `
+Копыювати у варіанті перегляду "Code"
 
 CREATE DATABASE IF NOT EXISTS GameData1;
 USE GameData;
