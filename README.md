@@ -61,4 +61,4 @@ CREATE TABLE dice (
 5)У класі Security - Copy.cs Забираємо символи коментарів та вписуємо свої: телеграм API(створюється у TG @BotFather), сервер де база даних MySQL, ім'я та пароль користувача MySQL
 6)Видаляємо бібліотеку Security.cs та Solution -> Clean Solution і Solution -> Rebuild Solution.
 
-Бот готовий ло роботи
+Бот готовий до роботи
