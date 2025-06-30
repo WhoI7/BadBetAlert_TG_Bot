@@ -6,7 +6,7 @@
 Поля у вигялді цифр повинні бути обгорнуті лапками -> `
 Копіювати у варіанті перегляду "Code"
 
-CREATE DATABASE IF NOT EXISTS GameData1;
+CREATE DATABASE IF NOT EXISTS GameData;
 USE GameData;
 CREATE TABLE acaunt (
     ID BIGINT PRIMARY KEY,
