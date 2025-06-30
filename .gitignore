@@ -1,0 +1,21 @@
+# Ignore build results
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.pdb
+
+# Ignore packages
+packages/
+
+# Ignore diagram files
+*.cd
+
+# Ignore VS config
+.vs/
+
+# Ignore debug and release folders
+Debug/
+Release/
+Security.cs
